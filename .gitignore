@@ -73,6 +73,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-SDSProjectHenchman/Saved/
+DungeonCrawler/Saved/
 
-SDSProjectHenchman/Intermediate/
+DungeonCrawler/Intermediate/
